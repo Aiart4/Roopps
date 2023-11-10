@@ -1,7 +1,3 @@
-# Based9Based version of ROOP, No NSFW Filter, No ERRORS ;)
-Google Colab Link: [Click here](https://basedbased.blogspot.com/2023/08/google-colab-for-deepfake-face-swapping.html)
-
-# Roop
 
 > Take a video and replace the face in it with a face of your choice. You only need one image of the desired face. No dataset, no training.
 
